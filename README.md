@@ -1,12 +1,12 @@
 # Hi, I'm Toribio
 
-## 👨‍💻 About Me
+## About Me
 
 Junior Data Scientist / Data Analyst with a Master’s degree in Statistics. Strong background in statistical modelling, machine learning, and large-scale data processing using Python and SQL.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Programming:** Python, SQL, R  
 - **Data Analysis:** Pandas, NumPy, Scikit-learn  
@@ -17,7 +17,7 @@ Junior Data Scientist / Data Analyst with a Master’s degree in Statistics. Str
 
 ---
 
-## 📁 Projects
+## Projects
 
 ### Credit Risk Prediction System
 Machine learning model to predict customer default risk using a dataset with 100k+ records.
@@ -43,7 +43,7 @@ Business intelligence project focused on customer and sales analysis.
 
 ---
 
-## 🎯 Focus Areas
+## Focus Areas
 
 - Data Science & Machine Learning  
 - Risk & Financial Analytics  
@@ -52,7 +52,7 @@ Business intelligence project focused on customer and sales analysis.
 
 ---
 
-## 📫 Contact
+## Contact
 
 - LinkedIn: [https://www.linkedin.com/in/toribio-tomeo-5b3459244/]
 - Email: [toribiotomeo99@gmail.com]
