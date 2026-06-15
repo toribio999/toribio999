@@ -11,7 +11,7 @@ Junior Data Scientist / Data Analyst with a Master’s degree in Statistics. Str
 - **Programming:** Python, SQL, R  
 - **Data Analysis:** Pandas, NumPy, Scikit-learn  
 - **Machine Learning:** Classification, Regression, Model Evaluation  
-- **Big Data / Cloud:** PySpark, Databricks, Snowflake  
+- **Big Data / Cloud:** Databricks, Snowflake  
 - **Data Visualization:** Power BI, Excel  
 - **Other:** SHAP, Feature Engineering, Git  
 
